@@ -10,8 +10,9 @@ Every tool reads an **official, open** source through its public API: no logins,
 | How do I check if an Israeli contractor is registered? | [il-contractors-registry](https://apify.com/il-open-data/il-contractors-registry) | $0.005 | [examples/israel-contractors-registry.md](examples/israel-contractors-registry.md) |
 | Where do I get Israel new car prices by importer, in English? | [il-new-car-price-list](https://apify.com/il-open-data/il-new-car-price-list) | $0.002 | [examples/israel-new-car-prices.md](examples/israel-new-car-prices.md) |
 | How do I find UK and EU public tenders by keyword? | [uk-eu-tenders-finder](https://apify.com/il-open-data/uk-eu-tenders-finder) | $0.005 | [examples/uk-eu-public-tenders.md](examples/uk-eu-public-tenders.md) |
+| Which federal contracts are open to small businesses right now? | [sam-gov-opportunities](https://apify.com/il-open-data/sam-gov-opportunities) | $0.002 | [examples/sam-gov-opportunities.md](examples/sam-gov-opportunities.md) |
 | Is a brand name already a trademark in Israel? | [il-trademarks](https://apify.com/il-open-data/il-trademarks) | $0.005 | [guide](https://agent.zbang.net/guides/israel-trademark-search/) |
 
 Run any of them from Python with `pip install apify-client` and an Apify token; set `max_total_charge_usd` and the run stops at that cost.
 
-Full guides: [contractors](https://agent.zbang.net/guides/israel-contractors-registry/) · [car prices](https://agent.zbang.net/guides/israel-new-car-prices/) · [UK & EU tenders](https://agent.zbang.net/guides/find-uk-eu-public-tenders/) · [trademarks](https://agent.zbang.net/guides/israel-trademark-search/)
+Full guides: [contractors](https://agent.zbang.net/guides/israel-contractors-registry/) · [car prices](https://agent.zbang.net/guides/israel-new-car-prices/) · [UK & EU tenders](https://agent.zbang.net/guides/find-uk-eu-public-tenders/) · [trademarks](https://agent.zbang.net/guides/israel-trademark-search/) · [SAM.gov federal contracts](https://agent.zbang.net/guides/find-federal-contracts-small-business/)
